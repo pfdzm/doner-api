@@ -15,8 +15,9 @@ const corsOptions = {
   origin: [
     "https://apps.pfdzm.me",
     "https://apps.fernandezmichel.com",
-    "https://doner.now.sh",
-    "http://localhost:3000"
+    "http://localhost:3000",
+    /doner\.netlify\.app$/,
+    /doner\.now\.sh$/
   ],
 };
 
