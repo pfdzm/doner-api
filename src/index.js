@@ -15,6 +15,8 @@ const corsOptions = {
     'https://apps.fernandezmichel.com',
     'http://localhost:3000',
     'http://localhost:8081',
+    'http://localhost:8080',
+    'http://localhost:5000',
     /doner\.netlify\.app$/,
     /doner\.now\.sh$/,
   ],
